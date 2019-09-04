@@ -1,4 +1,6 @@
-# hoa-auth
+# This is a boilerplate login/registration system built using the MERN Stack
+
+This app was meant to be used solely as a starting point.<br>
 
 # Initial setup
 
@@ -21,7 +23,3 @@ Link Redux to our components<br>
 Display errors from our backend in our React forms<br>
 Create protected routes (pages only certain users can access based on their authentication)<br>
 Keep a user logged when they refresh or leave the page (in other words, until they either logout or the jwt expires)
-
-# This is boilerplate login/registration system built using the MERN Stack
-
-This app was meant to be used solely as a starting point.
